@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: "Lato", sans-serif;
+    transition: .5s;
+}
+.search{
+    background: transparent;
+    border: 0;
+    outline: 0;
+}
+.btn{
+    padding: 10px 40px;
+    color: white;
+    border: 1px solid white;
+    font-weight: bold;
+}
+.btn:hover{
+    color: black;
+    background: rgb(0, 214, 150);
+    border: 1px solid rgb(2, 207, 139);
+}
+.btn1{
+    color: black;
+    background: rgb(0, 214, 150);
+    border: 1px solid rgb(2, 207, 139);
+}
+.custom-table {
+    width: 100%;
+  }
+
+  .custom-table th,
+  .custom-table td {
+    padding: 8px;
+  }
+
+  .custom-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+th, td{
+    padding:5px;
+}
+.animation{
+    animation: prograss 6s 1;
+}
+@keyframes prograss {
+    0%{width: 0%;}
+    100%{width: 100%;}
+}

@@ -1,0 +1,212 @@
+[
+    {
+      "recipe_id": "1",
+      "recipe_name": "Spaghetti Bolognese",
+      "short_description": "Classic Italian pasta dish with rich tomato sauce and ground beef.",
+      "ingredients": [
+        "400 g spaghetti",
+        "500 g ground beef",
+        "500 ml tomato sauce",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 carrot, grated",
+        "1 celery stalk, finely chopped",
+        "1/4 cup red wine",
+        "1 tbsp olive oil",
+        "Salt and pepper to taste"
+    ],
+      "preparing_time": 45,
+      "calories": 450,
+      "recipe_image": "https://i.ibb.co/Jzhrd6J/rs1.jpg"
+    },
+    {
+      "recipe_id": "2",
+      "recipe_name": "Chicken Curry",
+      "short_description": "A flavorful Indian curry made with tender chicken and aromatic spices.",
+      "ingredients": [
+        "600 g chicken thighs, boneless",
+        "400 ml coconut milk",
+        "2 onions, diced",
+        "3 tomatoes, chopped",
+        "2 tbsp curry powder",
+        "1 tbsp ginger, grated",
+        "3 cloves garlic, minced",
+        "1 green chili, chopped",
+        "1/2 cup chicken broth",
+        "2 tbsp vegetable oil"
+    ],
+      "preparing_time": 50,
+      "calories": 380,
+      "recipe_image": "https://i.ibb.co/yQPdfX1/rs2.jpg"
+    },
+    {
+      "recipe_id": "3",
+      "recipe_name": "Caprese Salad",
+      "short_description": "A refreshing salad with ripe tomatoes, fresh mozzarella, and basil leaves.",
+      "ingredients": [
+        "3 tomatoes, sliced",
+        "200 g fresh mozzarella",
+        "1 bunch basil leaves",
+        "2 tbsp balsamic vinegar",
+        "2 tbsp olive oil",
+        "Salt and pepper to taste",
+        "1/4 cup pine nuts",
+        "1 tsp honey",
+        "1/4 cup black olives",
+        "1/4 cup fresh basil leaves, torn"
+    ],
+      "preparing_time": 15,
+      "calories": 258,
+      "recipe_image": "https://i.ibb.co/z7zwqX9/rs3.jpg"
+    },
+    {
+      "recipe_id": "4",
+      "recipe_name": "Vegetable Stir-Fry",
+      "short_description": "A colorful and healthy stir-fry dish loaded with assorted vegetables.",
+      "ingredients": [
+        "300 g mixed vegetables",
+        "200 g tofu, diced",
+        "3 tbsp soy sauce",
+        "2 cloves garlic, minced",
+        "1 tbsp sesame oil",
+        "1 red onion, sliced",
+        "1 bell pepper, sliced",
+        "1 cup snap peas",
+        "1 cup mushrooms, sliced",
+        "1 tbsp ginger, minced"
+      ],
+      "preparing_time": 25,
+      "calories": 220,
+      "recipe_image": "https://i.ibb.co/7pcsd2z/rs4.jpg"
+    },
+    {
+      "recipe_id": "5",
+      "recipe_name": "Chocolate Chip Cookies",
+      "short_description": "Classic homemade cookies with gooey chocolate chips, perfect for dessert.",
+      "ingredients": [
+        "200 g butter, softened",
+        "200 g brown sugar",
+        "150 g white sugar",
+        "2 eggs",
+        "300 g all-purpose flour",
+        "200 g chocolate chips",
+        "1/2 tsp baking soda",
+        "1/2 tsp salt",
+        "50 g chopped nuts (optional)",
+        "50 g rolled oats",
+        "1/2 tsp cinnamon"
+      ],
+      "preparing_time": 20,
+      "calories": 180,
+      "recipe_image": "https://i.ibb.co/DM3yhLn/rs5.jpg"
+    },
+    {
+      "recipe_id": "6",
+      "recipe_name": "Caesar Salad",
+      "short_description": "A timeless salad with crisp romaine lettuce, Parmesan cheese, and croutons.",
+      "ingredients": [
+        "1 head romaine lettuce",
+        "100 g Parmesan cheese",
+        "1 cup croutons",
+        "4 tbsp Caesar dressing",
+        "1/4 cup cherry tomatoes, halved",
+        "1/4 cup sliced black olives",
+        "2 tbsp capers",
+        "1/4 cup roasted chicken breast, sliced",
+        "1/4 cup boiled eggs, chopped",
+        "1/4 cup bacon bits",
+        "1/4 cup red onion, thinly sliced"
+      ],
+      "preparing_time": 20,
+      "calories": 320,
+      "recipe_image": "https://i.ibb.co/9s1CXX1/rs6.jpg"
+    },
+    {
+      "recipe_id": "7",
+      "recipe_name": "Mushroom Risotto",
+      "short_description": "Creamy and flavorful risotto cooked with Arborio rice and mushrooms.",
+      "ingredients": [
+        "300 g Arborio rice",
+        "500 g mushrooms, sliced",
+        "1 onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1 liter vegetable broth",
+        "50 g Parmesan cheese",
+        "1/2 cup dry white wine",
+        "2 tbsp butter",
+        "1/4 cup fresh parsley, chopped",
+        "1 tsp thyme leaves",
+        "1/2 cup heavy cream",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": 40,
+      "calories": 380,
+      "recipe_image": "https://i.ibb.co/KN2DFBD/rs7.jpg"
+    },
+    {
+      "recipe_id": "8",
+      "recipe_name": "Tacos al Pastor",
+      "short_description": "Authentic Mexican tacos with marinated pork, pineapple, and fresh cilantro.",
+      "ingredients": [
+        "500 g pork shoulder, thinly sliced",
+        "1 pineapple, sliced",
+        "1 onion, diced",
+        "1 bunch fresh cilantro",
+        "8 corn tortillas",
+        "2 tbsp adobo sauce",
+        "1 tbsp vegetable oil",
+        "2 cloves garlic, minced",
+        "1 tsp ground cumin",
+        "1 tsp dried oregano",
+        "1 tsp paprika",
+        "1 lime, juiced"
+      ],
+      "preparing_time": 35,
+      "calories": 300,
+      "recipe_image": "https://i.ibb.co/4mdc5XC/rs8.jpg"
+    },
+    {
+      "recipe_id": "9",
+      "recipe_name": "Tomato Soup",
+      "short_description": "A comforting soup made with ripe tomatoes, onions, and fresh basil.",
+      "ingredients": [
+        "1 kg ripe tomatoes, chopped",
+        "2 onions, diced",
+        "3 cloves garlic, minced",
+        "1 bunch fresh basil",
+        "500 ml vegetable broth",
+        "100 ml heavy cream",
+        "2 carrots, diced",
+        "2 tbsp olive oil",
+        "1 bay leaf",
+        "1 tsp dried thyme",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": 30,
+      "calories": 180,
+      "recipe_image": "https://i.ibb.co/GFjdS6G/rs9.jpg"
+    },
+    {
+      "recipe_id": "10",
+      "recipe_name": "Grilled Salmon",
+      "short_description": "Juicy and tender salmon fillets marinated with lemon and herbs, perfect for a healthy meal.",
+      "ingredients": [
+        "4 salmon fillets",
+        "1 lemon, sliced",
+        "2 cloves garlic, minced",
+        "2 tbsp olive oil",
+        "1 tbsp fresh dill, chopped",
+        "1 tsp honey",
+        "1/2 tsp smoked paprika",
+        "1/4 tsp red pepper flakes",
+        "1/4 cup soy sauce",
+        "1 tbsp balsamic vinegar",
+        "Salt and black pepper to taste"
+      ],
+      "preparing_time": 25,
+      "calories": 300,
+      "recipe_image": "https://i.ibb.co/NKYskPw/rs10.jpg"
+    }
+    
+  ]
+  
